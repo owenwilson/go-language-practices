@@ -26,4 +26,4 @@
 ## Reference links
 
 - Check the following link for [the unicode character table](https://en.wikipedia.org/wiki/List_of_Unicode_characters).
-- Check the following link for [Blank identifier](https://yourbasic.org/golang/underscore/)
+- Check the following link for [Blank identifier](https://www.naukri.com/code360/library/blank-identifier-in-go)
