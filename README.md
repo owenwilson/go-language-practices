@@ -45,6 +45,13 @@ go version
 which go
 ```
 
+- use the following command to use  a specific version of GO in your personal project
+
+```sh
+cd folder_project
+goenv local 1.17.2
+```
+
 ## datatype
 
 `unit`
@@ -66,7 +73,14 @@ which go
 
 `float32` `float64`
 
-## Reference links
+## references
 
-- Check the following link for [the unicode character table](https://en.wikipedia.org/wiki/List_of_Unicode_characters).
-- Check the following link for [Blank identifier](https://www.naukri.com/code360/library/blank-identifier-in-go)
+- check out [the unicode character table](https://en.wikipedia.org/wiki/List_of_Unicode_characters).
+- check out [Blank identifier](https://www.naukri.com/code360/library/blank-identifier-in-go)
+
+### goenv
+
+- check out [manage diferents versions of go](https://medium.com/@tinchoram/c%C3%B3mo-administrar-diferentes-versiones-de-golang-con-goenv-ca4f2cbb84c5)
+- check out [goenv github](https://github.com/go-nv/goenv/tree/master)
+- check out [goenv installation](https://github.com/go-nv/goenv/blob/master/INSTALL.md)
+
